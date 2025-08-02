@@ -59,4 +59,4 @@
 | 🎨 **design**     | 뷰 디자인 변경                                |
 
 ## 📝 PR 작성 규칙
-iitaeok2
+ittaeok

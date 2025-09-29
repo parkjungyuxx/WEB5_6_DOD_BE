@@ -69,7 +69,7 @@
 ---
 
 
-## 📍 System Architecture
+## 💻 System Architecture
 
 <div align="center">
 <img width="1374" height="765" alt="system Architecture" src="https://github.com/user-attachments/assets/450608c2-bd68-4d37-9bc7-ba88f3dc28ea" />

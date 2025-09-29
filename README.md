@@ -2,7 +2,7 @@
 
 ### 효율적인 일정 조율을 위한 통합 스케줄링 플랫폼<br>
 개인과 그룹의 일정 조율 과정에서 발생하는 비효율성을 해결하고 모든 구성원이 참여하지 못하는<br>
-현실적인 상황을 고려하여 유연한 일정 관리 서비스를 제공합니다.
+현실적인 상황을 고려하여 유연한 일정 관리 서비스를 제공합니다
 
 <img width="1200" height="630" alt="Frame_2608805" src="https://github.com/user-attachments/assets/2b889840-dbb1-4378-a453-7024cd385578" />
 
@@ -69,7 +69,7 @@
 ---
 
 
-## 📍 System Architecture
+## 💻 System Architecture
 
 <div align="center">
 <img width="1374" height="765" alt="system Architecture" src="https://github.com/user-attachments/assets/450608c2-bd68-4d37-9bc7-ba88f3dc28ea" />
